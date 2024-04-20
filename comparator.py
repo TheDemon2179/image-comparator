@@ -1,5 +1,5 @@
 import keyboard
-import comparator
+import comparator_module
 from PIL import ImageGrab
 
 def paste_image():
