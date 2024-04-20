@@ -12,8 +12,7 @@ Example of output:
 ```
 (yes, it's in Russian xD)
 
-=====================
-
+--------
 
 **EN**
 --------
